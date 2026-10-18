@@ -54,7 +54,7 @@ TestApp ("we," "our," or "us") is a test app. TestApp is a test application used
 ## Data Sharing
 
 ### Family Groups
-- TestApp does not use MyFamilyTracker-style family groups unless explicitly described in this policy.
+- TestApp does not use family groups unless explicitly described in this policy.
 - If this app includes pairing, sharing, or collaboration features, data is shared only with the people or services required for the feature you choose.
 - You control feature use through the app settings, permissions, account controls, or platform settings.
 
